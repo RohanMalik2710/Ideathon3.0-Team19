@@ -12,17 +12,17 @@ Welcome to GhostTalk, a real-time chat application built using React, Node.js, a
 
 To get started with GhostTalk locally on your machine, follow the instructions below.
 
-# Prerequisites:
+# Prerequisite
 Make sure you have the following software installed on your system:
 
 * Node.js
 * npm 
 
-# Installation:
+# Installation
 * on client - npm i socket.io-client mongoose react-icons reaact-client emoji-picker-react node-emoji react-easy-emoji 
 * on server - npm i express cors nodemon socket.io mongoose
 
-# Usage:
+# Usage
 To run GhostTalk on your local development environment, follow these steps:
 
 Start the Node.js server:
@@ -30,7 +30,7 @@ Start the Node.js server:
 Start the React client:
  * cd clientfrontend -> npm start
 
-# Features:
+# Features
 GhostTalk offers the following features:
 
 * Real-Time Messaging: Users can send and receive messages in real-time, enabling instant communication.
@@ -39,7 +39,7 @@ GhostTalk offers the following features:
 
 * Emoji Support: Users can send emojis to express emotions and add fun to their interactions.
 
-# Technologies Used:
+# Technologies Used
 GhostTalk is built using the following technologies:
 
 Frontend:
